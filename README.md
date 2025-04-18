@@ -1,5 +1,4 @@
 # Expense_Tracker_IP
-# Expense Tracker
 
 A simple expense tracking application with MySQL backend.
 
